@@ -1,0 +1,19 @@
+Version: 1.0
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 4
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+PythonType: virtualenv
+PythonVersion: 3.10.4
+PythonPath: D:/WORKSPACE/BootcampCientistaDados/../Scripts/python.exe
+
+SpellingDictionary: pt_BR
