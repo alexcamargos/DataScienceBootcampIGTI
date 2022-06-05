@@ -1,4 +1,4 @@
-# 2022-5A - Bootcamp - Cientista de Dados
+# 2022-5A — Bootcamp Cientista de Dados
 
 ## Objetivo principal
 
@@ -11,7 +11,10 @@ da utilização de frameworks do Big Data e técnicas de Machine Learning.
 
 ## Pré-requisitos
 
-Conhecimentos básico em lógica de programação.
+Conhecimentos básicos em lógica de programação.
+
+## Plano de Ensino
+[Módulo 1 - Fundamentos de estatística e aprendizado de máquina](Modulo_1)
 
 ## Autor
 
