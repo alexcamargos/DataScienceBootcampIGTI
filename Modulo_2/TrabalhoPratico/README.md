@@ -1,4 +1,4 @@
-# Trabalho Prático do Módulo 1
+# Trabalho Prático do Módulo 2
 
 ## Objetivos
 
@@ -36,3 +36,7 @@ O aluno deve extrair as principais estatísticas descritivas do conjunto de dado
 - [https://towardsdatascience.com/the-most-complete-guide-to-pyspark-dataframes-2702c343b2e8](https://towardsdatascience.com/the-most-complete-guide-to-pyspark-dataframes-2702c343b2e8)
 
 As perguntas objetivas contêm perguntas específicas que o aluno deve responder por meio de aplicações Spark.
+
+- [Resolução usando PySpark](trabalho_pratico_pyspark.ipynb) executado no [Databricks Community Edition](https://community.cloud.databricks.com/).
+
+- [Resolução usando Pandas](trabalho_pratico_pandas.ipynb)
