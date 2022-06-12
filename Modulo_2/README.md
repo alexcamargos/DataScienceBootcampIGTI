@@ -56,3 +56,7 @@ Capítulo 8:  Deploy de uma aplicação Spark em um ambiente de cluster e Spark 
 
 - 8.1. Deploy de uma aplicação Spark em um ambiente de cluster
 - 8.2. Spark 3.0
+
+## Links uteis
+
+- [Databricks Community Edition](https://community.cloud.databricks.com/)

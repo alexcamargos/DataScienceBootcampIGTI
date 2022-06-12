@@ -14,7 +14,9 @@ da utilização de frameworks do Big Data e técnicas de Machine Learning.
 Conhecimentos básicos em lógica de programação.
 
 ## Plano de Ensino
-[Módulo 1 - Fundamentos de estatística e aprendizado de máquina](Modulo_1)
+
+- [Módulo 1 - Fundamentos de estatística e aprendizado de máquina](Modulo_1)
+- [Módulo 2 - Desenvolvimento de Soluções Utilizando Spark](Modulo_2)
 
 ## Autor
 
