@@ -18,3 +18,4 @@ negócios, para que o aluno não fique apenas na teoria
 
 - [Trabalho Prático](TrabalhoPratico)
 - [Desafio](Desafio)
+- [Bike-sharing: Universidade do Porto](bike-sharing.ipynb)
