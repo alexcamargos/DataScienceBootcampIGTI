@@ -6,6 +6,7 @@ O [Apache Spark](https://spark.apache.org/) é uma ferramenta Big Data que tem o
 
 - [Trabalho Prático](TrabalhoPratico)
 - [Desafio](Desafio)
+- [PySpark MlLib Regressão linear](pyspark_mllib_linear_regression.ipynb)
 
 ### Plano de ensino
 
