@@ -28,6 +28,6 @@ Foram selecionadas sete variáveis para este estudo:
 - _Renda Mensal_ (variável contínua medida em reais) — Nos informa a renda mensal do cliente.
 - _Possui Imóvel Próprio_ (variável categórica com dois níveis) — Nos informa se cliente possui imóvel próprio ou não.
 
-[Resolução do desafio utilizando Python](desafio_python.ipynb)
+Jupyter notebook: [Resolução do desafio utilizando Python](desafio_python.ipynb)
 
-[Referente ao desafio utilizando R](desafio_r.ipynb)
+Jupyter notebook: [Referente ao desafio utilizando R](desafio_r.ipynb)
