@@ -16,6 +16,29 @@ da variável Y baseado nos valores das variáveis X.
 O curso foi cuidadosamente elaborado para sempre trazer exemplos claros e tangíveis, direcionados ao ambiente de
 negócios, para que o aluno não fique apenas na teoria
 
-- [Trabalho Prático](TrabalhoPratico)
-- [Desafio](Desafio)
-- [Bike-sharing: Universidade do Porto](bike-sharing.ipynb)
+### Bike-sharing: Análise de tendências de locações de bicicletas
+
+Esta atividade tem como objetivo analisar os dados de compartilhamento de bicicletas em uma cidade,
+coletados pela Universidade do Porto, realizando analise, transformações e visualizações de dados
+reais utilizando a biblioteca [Pandas](https://pandas.pydata.org/), [Seaborn](https://seaborn.pydata.org/) e [Matplotlib](https://matplotlib.org/).
+
+Jupyter notebook: [Bike-sharing: Universidade do Porto](bike-sharing.ipynb)
+
+### Hipóteses Estatísticas (Teste de hipótese)
+
+Esta atividade tem como objetivo exercitar os conceitos de analise estatísticas de dados
+trabalhando os seguintes testes de normalidade Teste de Shapiro-Wilk, Teste de Levene e Teste
+Mann-Whitney U utilizando a biblioteca [SciPy](https://scipy.org/).
+
+### Trabalho Prático
+
+Esta atividade, avaliativa, tem como objetivo exercitar os seguintes conceitos trabalhados no módulo: Análise exploratória, Teste de hipóteses, Correlação, Regressão
+
+[Trabalho Prático](TrabalhoPratico)
+
+### Desafio
+
+Esta atividade, avaliativa, tem como objetivo exercitar os seguintes conceitos trabalhados no
+Módulo: Análise exploratória, Teste de hipóteses, Correlação, Regressão.
+
+[Desafio](Desafio)
