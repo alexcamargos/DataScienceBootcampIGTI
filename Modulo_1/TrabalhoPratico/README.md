@@ -27,6 +27,6 @@ Foram selecionadas sete variáveis para este estudo:
 - _Quilometragem_ (variável contínua medida em quilómetros) – Nos informa quantos quilómetros rodados o veículo tinha no ato da locação.
 - _Dólar_ (variável contínua medida em dólares) – Nos informa qual a cotação do dólar no dia da locação.
 
-Jupyter notebook: [Resolução do desafio utilizando Python](trabalho_pratico_python.ipynb)
+Jupyter notebook: [Resolução do trabalho prático utilizando Python](trabalho_pratico_python.ipynb)
 
-Jupyter notebook: [Referente ao desafio utilizando R](trabalho_pratico_r.ipynb)
+Jupyter notebook: [Referente ao trabalho prático utilizando R](trabalho_pratico_r.ipynb)
