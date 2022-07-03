@@ -1,6 +1,6 @@
 # 2022-5A — Bootcamp Cientista de Dados
 
-## Módulo 2 - Desenvolvimento de Soluções Utilizando Spark
+## Módulo 3 - Técnicas para o Processamento do Big Data
 
 ## Objetivos
 
