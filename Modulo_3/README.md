@@ -16,6 +16,14 @@ Duração: 32 horas
 - [Trabalho Prático](TrabalhoPratico)
 - [Desafio](Desafio)
 
+### Material das aulas práticas
+
+- [Capítulo 2](arquivos_aulas_praticas\capitulo_2)
+- [Capítulo 3](arquivos_aulas_praticas\capitulo_3)
+- [Capítulo 4](arquivos_aulas_praticas\capitulo_4)
+- [Capítulo 5](arquivos_aulas_praticas\capitulo_5)
+- [Capítulo 6](arquivos_aulas_praticas\capitulo_6)
+
 >"Sem a análise do Big Data, as empresas estão cegas e surdas, vagando pela web como cervos em uma estrada."
 
 ## Links uteis
