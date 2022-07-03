@@ -20,7 +20,8 @@ Nesse sentido, coletar e analisar dados sobre os consumidores e o público-alvo 
 
 Neste desafio, vamos realizar uma análise sobre um banco de dados composto por clientes de um shopping. Nessa análise, vamos tentar compreender melhor quais são as características dos nossos consumidores. Para isso, vamos aplicar diferentes técnicas estatísticas, como correlação e regressão para identificar possíveis tendências e relacionamentos nos dados, investigar anomalias e aplicar o algoritmo K-means para dividir o conjunto de clientes em grupos com características similares. Portanto, será possível identificar as particularidades de cada um desses segmentos de clientes e poder oferecer produtos e serviços que atendam às necessidades de cada grupo.
 
-[Código fornecido pelo professor](desafio_bootcamp_TPD.ipynb)
+- [Resolução do desafio usando PySaprk](resolucao_desafio_pyspark.ipynb)
+- [Código fornecido pelo professor](desafio_bootcamp_TPD.ipynb)
 
 ## Links úteis
 
