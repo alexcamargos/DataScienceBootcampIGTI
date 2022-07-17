@@ -23,6 +23,7 @@ coletados pela Universidade do Porto, realizando analise, transformações e vis
 reais utilizando a biblioteca [Pandas](https://pandas.pydata.org/), [Seaborn](https://seaborn.pydata.org/) e [Matplotlib](https://matplotlib.org/).
 
 Jupyter notebook: [Bike-sharing: Universidade do Porto](bike-sharing.ipynb)
+
 Jupyter notebook: [Análise Descritiva SIGBM](analise_descritiva_SIGBM.ipynb)
 
 ### Hipóteses Estatísticas (Teste de hipótese)
