@@ -17,6 +17,9 @@ Conhecimentos básicos em lógica de programação.
 
 - [Módulo 1 - Fundamentos de estatística e aprendizado de máquina](Modulo_1)
 - [Módulo 2 - Desenvolvimento de Soluções Utilizando Spark](Modulo_2)
+- [Módulo 3 - Técnicas para o Processamento do Big Data](Modulo_3)
+- [Módulo 4 - Análise de Dados Utilizando Dashboards](Modulo_4)
+- [Desafio Final](DesafioFinal)
 
 ## Autor
 
