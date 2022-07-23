@@ -16,7 +16,7 @@ Atuar no processamento e análise de grandes volumes de dados estruturados e nã
 
 Conhecimentos básicos em lógica de programação.
 
-Bootcamp: https://www.xpeducacao.com.br/bootcamp/cientista-de-dados
+*Bootcamp*: [https://www.xpeducacao.com.br/bootcamp/cientista-de-dados](https://www.xpeducacao.com.br/bootcamp/cientista-de-dados)
 
 ## Plano de Ensino
 
@@ -25,7 +25,7 @@ Bootcamp: https://www.xpeducacao.com.br/bootcamp/cientista-de-dados
 - [Módulo 2 - Desenvolvimento de Soluções Utilizando Spark](Modulo_2)
 - [Módulo 3 - Técnicas para o Processamento do Big Data](Modulo_3)
 - [Módulo 4 - Análise de Dados Utilizando Dashboards](Modulo_4)
-- [Desafio Final](DesafioFinal) 
+- [Desafio Final](DesafioFinal)
 
 **Carga horária**: 148 horas
 
@@ -43,7 +43,7 @@ Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos 
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | `4 horas`                                                             | `32 horas`                                                                 | `32 horas`                                                                                                                   | `32 horas`                                                                                                                                                                                                    | `32 horas`                                                                                          | `16 horas`                                                                                              |
 | Aquecimento e Regras do Jogo                                          | Fundamentos de estatística e aprendizado de máquina                        | Desenvolvimento de Soluções Utilizando Spark                                                                                 | Técnicas para o Processamento do Big Data                                                                                                                                                                     | Análise de Dados Utilizando Dashboards                                                              | Desafio Final                                                                                           |
-| Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas. | Aplicar o pipeline da Ciência de Dados para obter Insights sobre Big Data. | Processamento dinâmico de big data utilizando o Spark SQL, Spark GraphX, Spark MLlib e Spark Streaming e ecossistema Hadoop. | Processamento dinâmico de dados utilziando Algoritmos de aprendizado de máquina. Integração entre ambientes e ferramentas para o processamento do Big Data (__Spark_, __Kafka_, __Amazon Kinesis_ e __Neo4j_) | Aplicar técnicas de processamento de dados para desenvolvendo de dashboards (__Data storytelling_). | Aplicar o pipeline da ciência de dados e realizar o deploy de uma aplicação para análise em tempo real. |
+| Visão geral da dinâmica do curso, conteúdos e ferramentas utilizadas. | Aplicar o pipeline da Ciência de Dados para obter Insights sobre Big Data. | Processamento dinâmico de big data utilizando o Spark SQL, Spark GraphX, Spark MLlib e Spark Streaming e ecossistema Hadoop. | Processamento dinâmico de dados utilizando Algoritmos de aprendizado de máquina. Integração entre ambientes e ferramentas para o processamento do Big Data (_Spark_, _Kafka_, _Amazon Kinesis_ e _Neo4j_) | Aplicar técnicas de processamento de dados para desenvolvendo de dashboards (_Data storytelling_). | Aplicar o pipeline da ciência de dados e realizar o deploy de uma aplicação para análise em tempo real. |
 
 ## Autor
 
