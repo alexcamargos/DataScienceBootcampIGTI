@@ -18,11 +18,13 @@ negócios, para que o aluno não fique apenas na teoria
 
 ### Bike-sharing: Análise de tendências de locações de bicicletas
 
-Esta atividade tem como objetivo analisar os dados de compartilhamento de bicicletas em uma cidade,
-coletados pela Universidade do Porto, realizando analise, transformações e visualizações de dados
-reais utilizando a biblioteca [Pandas](https://pandas.pydata.org/), [Seaborn](https://seaborn.pydata.org/) e [Matplotlib](https://matplotlib.org/).
+Esta atividade tem como objetivo analisar os dados de compartilhamento de bicicletas em uma cidade, coletados pela Universidade do Porto, realizando analise, transformações e visualizações de dados reais utilizando as bibliotecas [Pandas](https://pandas.pydata.org/), [Seaborn](https://seaborn.pydata.org/) e [Matplotlib](https://matplotlib.org/).
 
 Jupyter notebook: [Bike-sharing: Universidade do Porto](bike-sharing.ipynb)
+
+### Sistema Integrado de Gestão de Barragens de Mineração (SIGBM) versão pública
+
+Esta atividade tem como objetivo aplicar os conceitos de análise descritiva e visualização de dados sobre a base de dados do Sistema Integrado de Gestão de Barragens de Mineração (SIGBM), realizando analise, transformações e visualizações de dados utilizando as bibliotecas [Pandas](https://pandas.pydata.org/),  [Plotly](https://plotly.com/python/), [Seaborn](https://seaborn.pydata.org/) e [Matplotlib](https://matplotlib.org/).
 
 Jupyter notebook: [Análise Descritiva SIGBM](analise_descritiva_SIGBM.ipynb)
 
