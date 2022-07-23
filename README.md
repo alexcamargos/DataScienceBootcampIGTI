@@ -60,4 +60,4 @@ Feito com :heart: por [Alexsander Lopes Camargos](https://github.com/alexcamargo
 
 ## Jornada do Bootcamp
 
-![Trilha do bootcamp](Abertura\trilhas.jpg)
+![Trilha do bootcamp](https://raw.githubusercontent.com/alexcamargos/DataScienceBootcampIGTI/main/Abertura/trilhas.jpg)
